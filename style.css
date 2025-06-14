@@ -20,7 +20,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-background-image: url('images/ai logo.jp    g');
+background-image: url('images/ai logo.jpg');
     background-size: cover;
     background-position: center;
     color: var(--light-color);
